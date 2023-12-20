@@ -1,0 +1,51 @@
+/* styles.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e61313;
+}
+
+header {
+    background-color: #2e0b0b;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #444;
+    padding: 1em;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    margin: 0 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+section {
+    padding: 2em;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.project {
+    margin-bottom: 1em;
+    background-color: #701717;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Agrega más estilos según sea necesario */
