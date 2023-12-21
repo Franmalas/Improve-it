@@ -26,8 +26,8 @@ Durante esta práctica, se explorarán y aplicarán los siguientes conceptos:
 
 ## Instrucciones de Ejecución
 
-1. Clona el repositorio: `git clone https://tu-repositorio.git`.
-2. Abre el archivo `index.html` en tu navegador web.
+1. Clona el repositorio: `git clone https://github.com/Franmalas/Improve-it.git`.
+2. Abre el archivo `blog.html` en tu navegador web.
 3. Explora la página y observa cómo los elementos HTML, CSS y JavaScript interactúan.
 
 Este proyecto es solo una práctica inicial y puede ser utilizado como punto de partida para futuros proyectos más complejos. Si tienes preguntas o comentarios, no dudes en contactarme.
